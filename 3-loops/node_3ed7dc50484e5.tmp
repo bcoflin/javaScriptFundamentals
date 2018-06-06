@@ -1,0 +1,9 @@
+// For Loops
+
+for(i = 0; i < 10; i++){
+    console.log(i);
+} 
+
+for(i=0; i < 20; i+5){
+    console.log(i);
+}
